@@ -1,0 +1,5 @@
+aaaa zzzz
+aaab zzzy
+aaba zzyz
+aabb zzyy
+abaa zyzz
